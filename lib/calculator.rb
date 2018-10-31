@@ -4,6 +4,6 @@ class Calculator
   end
 
   def square(a)
-
+    a * a
   end
 end

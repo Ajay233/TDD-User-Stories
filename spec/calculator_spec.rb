@@ -6,6 +6,6 @@ describe Calculator do
   end
 
   it 'calculator can communicate with #squares method' do
-    expect(subject.square(3)).to eq nil
+    expect(subject.square(3)).to eq 9
   end
 end

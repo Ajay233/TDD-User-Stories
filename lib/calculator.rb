@@ -1,9 +1,9 @@
 class Calculator
   def multiply(a, b)
-    a * b
+    "The answer is #{a * b}"
   end
 
   def square(a)
-    a * a
+    "The answer is #{a * a}"
   end
 end

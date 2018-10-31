@@ -3,7 +3,7 @@ class Calculator
     a * b
   end
 
-  def square
+  def square(a)
 
   end
 end

@@ -1,4 +1,4 @@
 class Calculator
-  def multiply
+  def multiply(a, b)
   end
 end
